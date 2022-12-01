@@ -4,3 +4,8 @@ This repository contains the html & css files for every corresponding page from 
 The zip file attached contains all the required code for the project.
 
 The Figma design link: https://www.figma.com/file/z3ZUDClnF87eHrZRv1lMep/TIE_FSWD?node-id=0%3A1&t=G7XeugpPjNHUaJ78-1
+
+
+| **Download Report** |
+|:----------|
+|[Report](https://drive.google.com/file/d/1fMhksL7qIcs5OFVdBz7CL417feOX05Ib/view?usp=sharing)|
